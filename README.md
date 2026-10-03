@@ -42,3 +42,14 @@ held-out VA Long Beach within the training partition.
 - [Full initial results](results/comparison_report.md)
 
 ![ROC, precision–recall, and calibration](results/comparison.png)
+
+## Errors and operating thresholds
+
+[Full confusion matrices and threshold interpretation](docs/error_analysis.md) show what accuracy
+hides: boosting misses two fewer positive cases than logistic regression, with four extra false alarms.
+The default cutoff is a reference point; the initial sensitivity-targeted cutoff did not demonstrate
+an optimal decision rule.
+
+```sh
+python visualize_errors.py
+```
