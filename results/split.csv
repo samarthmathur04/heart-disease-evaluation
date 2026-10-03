@@ -1,0 +1,919 @@
+id,dataset,target,partition
+1,Cleveland,0,train
+2,Cleveland,1,train
+3,Cleveland,1,train
+4,Cleveland,0,test
+5,Cleveland,0,train
+6,Cleveland,0,train
+7,Cleveland,1,test
+8,Cleveland,0,train
+9,Cleveland,1,train
+10,Cleveland,1,train
+11,Cleveland,0,train
+12,Cleveland,0,train
+13,Cleveland,1,train
+14,Cleveland,0,train
+15,Cleveland,0,train
+16,Cleveland,0,train
+17,Cleveland,1,train
+18,Cleveland,0,train
+19,Cleveland,0,train
+20,Cleveland,0,train
+21,Cleveland,0,train
+22,Cleveland,0,test
+23,Cleveland,1,train
+24,Cleveland,1,test
+25,Cleveland,1,train
+26,Cleveland,0,train
+27,Cleveland,0,train
+28,Cleveland,0,train
+29,Cleveland,0,train
+30,Cleveland,1,train
+31,Cleveland,0,train
+32,Cleveland,1,train
+33,Cleveland,1,train
+34,Cleveland,0,test
+35,Cleveland,0,test
+36,Cleveland,0,train
+37,Cleveland,1,train
+38,Cleveland,1,train
+39,Cleveland,1,train
+40,Cleveland,0,train
+41,Cleveland,1,train
+42,Cleveland,0,train
+43,Cleveland,0,train
+44,Cleveland,0,train
+45,Cleveland,1,train
+46,Cleveland,1,train
+47,Cleveland,0,train
+48,Cleveland,1,train
+49,Cleveland,0,train
+50,Cleveland,0,train
+51,Cleveland,0,train
+52,Cleveland,0,train
+53,Cleveland,1,train
+54,Cleveland,0,train
+55,Cleveland,1,train
+56,Cleveland,1,train
+57,Cleveland,1,train
+58,Cleveland,1,train
+59,Cleveland,0,train
+60,Cleveland,0,train
+61,Cleveland,1,train
+62,Cleveland,0,train
+63,Cleveland,1,test
+64,Cleveland,0,train
+65,Cleveland,1,test
+66,Cleveland,1,train
+67,Cleveland,1,test
+68,Cleveland,0,test
+69,Cleveland,1,train
+70,Cleveland,1,train
+71,Cleveland,0,train
+72,Cleveland,1,train
+73,Cleveland,1,train
+74,Cleveland,1,train
+75,Cleveland,1,train
+76,Cleveland,0,train
+77,Cleveland,1,test
+78,Cleveland,0,train
+79,Cleveland,0,train
+80,Cleveland,1,train
+81,Cleveland,0,train
+82,Cleveland,0,train
+83,Cleveland,0,train
+84,Cleveland,1,train
+85,Cleveland,0,train
+86,Cleveland,0,train
+87,Cleveland,0,train
+88,Cleveland,0,test
+89,Cleveland,0,train
+90,Cleveland,0,test
+91,Cleveland,0,train
+92,Cleveland,1,train
+93,Cleveland,0,test
+94,Cleveland,0,train
+95,Cleveland,0,test
+96,Cleveland,1,train
+97,Cleveland,1,train
+98,Cleveland,1,train
+99,Cleveland,0,train
+100,Cleveland,0,train
+101,Cleveland,0,test
+102,Cleveland,0,test
+103,Cleveland,0,train
+104,Cleveland,0,train
+105,Cleveland,1,test
+106,Cleveland,0,train
+107,Cleveland,1,train
+108,Cleveland,1,train
+109,Cleveland,1,train
+110,Cleveland,1,train
+111,Cleveland,1,train
+112,Cleveland,1,train
+113,Cleveland,0,train
+114,Cleveland,1,test
+115,Cleveland,1,train
+116,Cleveland,0,test
+117,Cleveland,0,train
+118,Cleveland,0,train
+119,Cleveland,1,train
+120,Cleveland,1,train
+121,Cleveland,1,train
+122,Cleveland,1,train
+123,Cleveland,0,train
+124,Cleveland,1,train
+125,Cleveland,1,train
+126,Cleveland,0,train
+127,Cleveland,1,train
+128,Cleveland,1,train
+129,Cleveland,0,train
+130,Cleveland,0,train
+131,Cleveland,0,train
+132,Cleveland,0,test
+133,Cleveland,0,train
+134,Cleveland,0,train
+135,Cleveland,0,test
+136,Cleveland,0,train
+137,Cleveland,1,train
+138,Cleveland,1,test
+139,Cleveland,1,train
+140,Cleveland,0,train
+141,Cleveland,0,train
+142,Cleveland,1,train
+143,Cleveland,0,train
+144,Cleveland,1,train
+145,Cleveland,0,train
+146,Cleveland,1,train
+147,Cleveland,1,train
+148,Cleveland,0,train
+149,Cleveland,0,train
+150,Cleveland,0,train
+151,Cleveland,0,train
+152,Cleveland,0,train
+153,Cleveland,0,train
+154,Cleveland,1,train
+155,Cleveland,1,train
+156,Cleveland,1,test
+157,Cleveland,1,train
+158,Cleveland,1,test
+159,Cleveland,1,train
+160,Cleveland,0,train
+161,Cleveland,0,test
+162,Cleveland,1,train
+163,Cleveland,0,test
+164,Cleveland,0,train
+165,Cleveland,0,train
+166,Cleveland,0,train
+167,Cleveland,0,test
+168,Cleveland,0,train
+169,Cleveland,1,test
+170,Cleveland,0,train
+171,Cleveland,1,train
+172,Cleveland,0,train
+173,Cleveland,1,test
+174,Cleveland,0,train
+175,Cleveland,1,train
+176,Cleveland,1,train
+177,Cleveland,0,train
+178,Cleveland,1,train
+179,Cleveland,0,train
+180,Cleveland,0,test
+181,Cleveland,1,train
+182,Cleveland,1,train
+183,Cleveland,0,train
+184,Cleveland,0,train
+185,Cleveland,1,train
+186,Cleveland,0,test
+187,Cleveland,0,test
+188,Cleveland,1,test
+189,Cleveland,1,train
+190,Cleveland,1,train
+191,Cleveland,0,train
+192,Cleveland,1,train
+193,Cleveland,1,train
+194,Cleveland,1,train
+195,Cleveland,0,train
+196,Cleveland,1,train
+197,Cleveland,0,test
+198,Cleveland,0,test
+199,Cleveland,0,train
+200,Cleveland,1,train
+201,Cleveland,0,train
+202,Cleveland,0,train
+203,Cleveland,0,train
+204,Cleveland,0,train
+205,Cleveland,0,train
+206,Cleveland,1,test
+207,Cleveland,1,train
+208,Cleveland,1,train
+209,Cleveland,0,train
+210,Cleveland,1,train
+211,Cleveland,0,train
+212,Cleveland,1,train
+213,Cleveland,0,test
+214,Cleveland,1,test
+215,Cleveland,1,train
+216,Cleveland,0,train
+217,Cleveland,0,train
+218,Cleveland,0,train
+219,Cleveland,0,train
+220,Cleveland,0,test
+221,Cleveland,0,train
+222,Cleveland,0,train
+223,Cleveland,0,train
+224,Cleveland,1,train
+225,Cleveland,1,train
+226,Cleveland,0,train
+227,Cleveland,0,train
+228,Cleveland,0,train
+229,Cleveland,1,train
+230,Cleveland,1,train
+231,Cleveland,0,train
+232,Cleveland,1,test
+233,Cleveland,1,train
+234,Cleveland,0,test
+235,Cleveland,0,test
+236,Cleveland,1,test
+237,Cleveland,1,train
+238,Cleveland,1,train
+239,Cleveland,0,train
+240,Cleveland,0,train
+241,Cleveland,0,train
+242,Cleveland,0,train
+243,Cleveland,0,train
+244,Cleveland,1,test
+245,Cleveland,0,train
+246,Cleveland,1,train
+247,Cleveland,1,train
+248,Cleveland,1,train
+249,Cleveland,1,train
+250,Cleveland,0,train
+251,Cleveland,0,train
+252,Cleveland,1,train
+253,Cleveland,0,train
+254,Cleveland,0,train
+255,Cleveland,0,train
+256,Cleveland,0,train
+257,Cleveland,0,train
+258,Cleveland,0,train
+259,Cleveland,0,train
+260,Cleveland,1,train
+261,Cleveland,0,train
+262,Cleveland,1,train
+263,Cleveland,0,train
+264,Cleveland,0,train
+265,Cleveland,1,test
+266,Cleveland,1,train
+267,Cleveland,1,train
+268,Cleveland,1,train
+269,Cleveland,1,train
+270,Cleveland,0,test
+271,Cleveland,1,test
+272,Cleveland,0,test
+273,Cleveland,1,train
+274,Cleveland,0,test
+275,Cleveland,1,train
+276,Cleveland,0,train
+277,Cleveland,0,train
+278,Cleveland,0,train
+279,Cleveland,1,train
+280,Cleveland,0,test
+281,Cleveland,1,train
+282,Cleveland,0,train
+283,Cleveland,1,test
+284,Cleveland,0,train
+285,Cleveland,1,test
+286,Cleveland,1,test
+287,Cleveland,1,test
+288,Cleveland,0,train
+289,Cleveland,0,test
+290,Cleveland,0,train
+291,Cleveland,1,train
+292,Cleveland,0,train
+293,Cleveland,1,test
+294,Cleveland,1,train
+295,Cleveland,1,train
+296,Cleveland,0,test
+297,Cleveland,1,test
+298,Cleveland,1,train
+299,Cleveland,1,train
+300,Cleveland,1,train
+301,Cleveland,1,test
+302,Cleveland,1,train
+303,Cleveland,0,train
+304,Cleveland,0,test
+305,Hungary,0,train
+306,Hungary,0,train
+307,Hungary,0,train
+308,Hungary,0,test
+309,Hungary,0,train
+310,Hungary,0,train
+311,Hungary,0,train
+312,Hungary,0,test
+313,Hungary,0,train
+314,Hungary,0,train
+315,Hungary,0,train
+316,Hungary,0,train
+317,Hungary,0,train
+318,Hungary,0,train
+319,Hungary,0,train
+320,Hungary,0,train
+321,Hungary,0,test
+322,Hungary,0,train
+323,Hungary,0,train
+324,Hungary,0,train
+325,Hungary,0,test
+326,Hungary,0,test
+327,Hungary,0,train
+328,Hungary,0,train
+329,Hungary,0,train
+330,Hungary,0,train
+331,Hungary,0,test
+332,Hungary,0,test
+333,Hungary,0,train
+334,Hungary,0,test
+335,Hungary,0,train
+336,Hungary,0,train
+337,Hungary,0,test
+338,Hungary,0,train
+339,Hungary,0,test
+340,Hungary,0,train
+341,Hungary,0,train
+342,Hungary,0,test
+343,Hungary,0,train
+344,Hungary,0,train
+345,Hungary,0,train
+346,Hungary,0,train
+347,Hungary,0,train
+348,Hungary,0,train
+349,Hungary,0,train
+350,Hungary,0,test
+351,Hungary,0,train
+352,Hungary,0,test
+353,Hungary,0,test
+354,Hungary,0,train
+355,Hungary,0,test
+356,Hungary,0,train
+357,Hungary,0,train
+358,Hungary,0,train
+359,Hungary,0,train
+360,Hungary,0,train
+361,Hungary,0,train
+362,Hungary,0,train
+363,Hungary,0,train
+364,Hungary,0,train
+365,Hungary,0,test
+366,Hungary,0,train
+367,Hungary,0,train
+368,Hungary,0,train
+369,Hungary,0,train
+370,Hungary,0,train
+371,Hungary,0,train
+372,Hungary,0,test
+373,Hungary,0,train
+374,Hungary,0,train
+375,Hungary,0,train
+376,Hungary,0,train
+377,Hungary,0,train
+378,Hungary,0,train
+379,Hungary,0,train
+380,Hungary,0,train
+381,Hungary,0,train
+382,Hungary,0,train
+383,Hungary,0,train
+384,Hungary,0,train
+385,Hungary,0,train
+386,Hungary,0,train
+387,Hungary,0,train
+388,Hungary,0,train
+389,Hungary,0,train
+390,Hungary,0,train
+391,Hungary,0,train
+392,Hungary,0,train
+393,Hungary,0,train
+394,Hungary,0,train
+395,Hungary,0,train
+396,Hungary,0,train
+397,Hungary,0,train
+398,Hungary,0,train
+399,Hungary,0,train
+400,Hungary,0,train
+401,Hungary,0,test
+402,Hungary,0,train
+403,Hungary,0,train
+404,Hungary,0,train
+405,Hungary,0,train
+407,Hungary,0,train
+408,Hungary,0,train
+409,Hungary,0,train
+410,Hungary,0,train
+411,Hungary,0,train
+412,Hungary,0,train
+413,Hungary,0,train
+414,Hungary,0,test
+415,Hungary,0,train
+416,Hungary,0,test
+417,Hungary,0,train
+418,Hungary,0,train
+419,Hungary,0,train
+420,Hungary,0,test
+421,Hungary,0,train
+422,Hungary,0,train
+423,Hungary,0,train
+424,Hungary,0,test
+425,Hungary,0,train
+426,Hungary,0,train
+427,Hungary,0,train
+428,Hungary,0,train
+429,Hungary,0,train
+430,Hungary,0,train
+431,Hungary,0,train
+432,Hungary,0,train
+433,Hungary,0,test
+434,Hungary,0,train
+435,Hungary,0,train
+436,Hungary,0,train
+437,Hungary,0,train
+438,Hungary,0,train
+439,Hungary,0,train
+440,Hungary,0,test
+441,Hungary,0,test
+442,Hungary,0,train
+443,Hungary,0,train
+444,Hungary,0,train
+445,Hungary,0,train
+446,Hungary,0,train
+447,Hungary,0,test
+448,Hungary,0,train
+449,Hungary,0,train
+450,Hungary,0,test
+451,Hungary,0,train
+452,Hungary,0,test
+453,Hungary,0,test
+454,Hungary,0,train
+455,Hungary,0,train
+456,Hungary,0,train
+457,Hungary,0,train
+458,Hungary,0,train
+459,Hungary,0,train
+460,Hungary,0,train
+461,Hungary,0,train
+462,Hungary,0,train
+463,Hungary,0,test
+464,Hungary,0,train
+465,Hungary,0,train
+466,Hungary,0,test
+467,Hungary,0,train
+468,Hungary,0,train
+469,Hungary,0,test
+470,Hungary,0,train
+471,Hungary,0,train
+472,Hungary,0,train
+473,Hungary,0,train
+474,Hungary,0,test
+475,Hungary,0,train
+476,Hungary,0,train
+477,Hungary,0,train
+478,Hungary,0,train
+479,Hungary,0,train
+480,Hungary,0,train
+481,Hungary,0,train
+482,Hungary,0,train
+483,Hungary,0,test
+484,Hungary,0,train
+485,Hungary,0,test
+486,Hungary,0,test
+487,Hungary,0,train
+488,Hungary,0,test
+489,Hungary,0,train
+490,Hungary,0,train
+491,Hungary,0,train
+492,Hungary,1,test
+493,Hungary,1,test
+494,Hungary,1,train
+495,Hungary,1,test
+496,Hungary,1,train
+497,Hungary,1,train
+498,Hungary,1,train
+499,Hungary,1,train
+500,Hungary,1,train
+501,Hungary,1,train
+502,Hungary,1,train
+503,Hungary,1,test
+504,Hungary,1,train
+505,Hungary,1,train
+506,Hungary,1,train
+507,Hungary,1,test
+508,Hungary,1,train
+509,Hungary,1,train
+510,Hungary,1,test
+511,Hungary,1,train
+512,Hungary,1,train
+513,Hungary,1,train
+514,Hungary,1,train
+515,Hungary,1,test
+516,Hungary,1,train
+517,Hungary,1,train
+518,Hungary,1,train
+519,Hungary,1,train
+520,Hungary,1,train
+521,Hungary,1,train
+522,Hungary,1,train
+523,Hungary,1,test
+524,Hungary,1,test
+525,Hungary,1,train
+526,Hungary,1,test
+527,Hungary,1,train
+528,Hungary,1,train
+529,Hungary,1,train
+530,Hungary,1,train
+531,Hungary,1,train
+532,Hungary,1,train
+533,Hungary,1,train
+534,Hungary,1,train
+535,Hungary,1,train
+536,Hungary,1,train
+537,Hungary,1,train
+538,Hungary,1,train
+539,Hungary,1,train
+540,Hungary,1,train
+541,Hungary,1,test
+542,Hungary,1,train
+543,Hungary,1,train
+544,Hungary,1,train
+545,Hungary,1,train
+546,Hungary,1,train
+547,Hungary,1,train
+548,Hungary,1,train
+549,Hungary,1,test
+550,Hungary,1,train
+551,Hungary,1,train
+552,Hungary,1,test
+553,Hungary,1,train
+554,Hungary,1,train
+555,Hungary,1,train
+556,Hungary,1,train
+557,Hungary,1,train
+558,Hungary,1,train
+559,Hungary,1,train
+560,Hungary,1,test
+561,Hungary,1,train
+562,Hungary,1,train
+563,Hungary,1,train
+564,Hungary,1,train
+565,Hungary,1,train
+566,Hungary,1,train
+567,Hungary,1,train
+568,Hungary,1,train
+569,Hungary,1,train
+570,Hungary,1,train
+571,Hungary,1,test
+572,Hungary,1,train
+573,Hungary,1,train
+574,Hungary,1,train
+575,Hungary,1,test
+576,Hungary,1,train
+577,Hungary,1,train
+578,Hungary,1,train
+579,Hungary,1,test
+580,Hungary,1,train
+581,Hungary,1,train
+582,Hungary,1,test
+583,Hungary,1,test
+584,Hungary,1,train
+585,Hungary,1,train
+586,Hungary,1,train
+587,Hungary,1,test
+588,Hungary,1,train
+589,Hungary,1,train
+590,Hungary,1,test
+591,Hungary,1,train
+592,Hungary,1,train
+593,Hungary,1,train
+594,Hungary,1,train
+595,Hungary,1,train
+596,Hungary,1,train
+597,Hungary,1,train
+598,Switzerland,1,train
+599,Switzerland,1,train
+600,Switzerland,1,train
+601,Switzerland,1,train
+602,Switzerland,1,test
+603,Switzerland,1,train
+604,Switzerland,0,test
+605,Switzerland,1,test
+606,Switzerland,1,train
+607,Switzerland,1,test
+608,Switzerland,1,train
+609,Switzerland,1,train
+610,Switzerland,1,train
+611,Switzerland,1,test
+612,Switzerland,1,test
+613,Switzerland,1,train
+614,Switzerland,1,train
+615,Switzerland,0,train
+616,Switzerland,1,test
+617,Switzerland,1,test
+618,Switzerland,1,train
+619,Switzerland,1,train
+620,Switzerland,1,train
+621,Switzerland,1,train
+622,Switzerland,1,train
+623,Switzerland,1,train
+624,Switzerland,1,train
+625,Switzerland,1,train
+626,Switzerland,1,test
+627,Switzerland,1,train
+628,Switzerland,1,train
+629,Switzerland,1,train
+630,Switzerland,1,train
+631,Switzerland,1,train
+632,Switzerland,1,train
+633,Switzerland,1,train
+634,Switzerland,1,test
+635,Switzerland,1,train
+636,Switzerland,1,train
+637,Switzerland,1,train
+638,Switzerland,1,train
+639,Switzerland,0,train
+640,Switzerland,1,test
+641,Switzerland,1,train
+642,Switzerland,1,test
+643,Switzerland,1,train
+644,Switzerland,1,train
+645,Switzerland,0,train
+646,Switzerland,1,train
+647,Switzerland,1,test
+648,Switzerland,1,train
+649,Switzerland,0,train
+650,Switzerland,1,train
+651,Switzerland,1,train
+652,Switzerland,1,test
+653,Switzerland,0,train
+654,Switzerland,1,train
+655,Switzerland,1,train
+656,Switzerland,1,train
+657,Switzerland,1,train
+658,Switzerland,1,train
+659,Switzerland,1,train
+660,Switzerland,1,train
+661,Switzerland,1,test
+662,Switzerland,1,train
+663,Switzerland,1,train
+664,Switzerland,1,train
+665,Switzerland,1,train
+666,Switzerland,1,train
+667,Switzerland,1,train
+668,Switzerland,1,train
+669,Switzerland,1,test
+670,Switzerland,1,train
+671,Switzerland,1,train
+672,Switzerland,1,train
+673,Switzerland,1,train
+674,Switzerland,1,train
+675,Switzerland,1,train
+676,Switzerland,1,train
+677,Switzerland,1,test
+678,Switzerland,1,test
+679,Switzerland,1,test
+680,Switzerland,1,train
+681,Switzerland,1,train
+682,Switzerland,1,train
+683,Switzerland,1,train
+684,Switzerland,1,train
+685,Switzerland,1,train
+686,Switzerland,1,train
+687,Switzerland,1,train
+688,Switzerland,1,train
+689,Switzerland,1,train
+690,Switzerland,1,test
+691,Switzerland,1,train
+692,Switzerland,1,train
+693,Switzerland,1,train
+694,Switzerland,1,train
+695,Switzerland,1,train
+696,Switzerland,1,test
+697,Switzerland,1,train
+698,Switzerland,1,test
+699,Switzerland,1,train
+700,Switzerland,1,train
+701,Switzerland,1,train
+702,Switzerland,1,train
+703,Switzerland,1,train
+704,Switzerland,1,train
+705,Switzerland,1,train
+706,Switzerland,1,train
+707,Switzerland,0,train
+708,Switzerland,1,train
+709,Switzerland,1,test
+710,Switzerland,1,train
+711,Switzerland,1,test
+712,Switzerland,1,train
+713,Switzerland,1,train
+714,Switzerland,1,train
+715,Switzerland,1,train
+716,Switzerland,1,train
+717,Switzerland,1,train
+718,Switzerland,0,test
+719,Switzerland,1,train
+720,Switzerland,1,train
+721,VA Long Beach,1,train
+722,VA Long Beach,0,train
+723,VA Long Beach,1,train
+724,VA Long Beach,1,test
+725,VA Long Beach,0,test
+726,VA Long Beach,0,train
+727,VA Long Beach,1,test
+728,VA Long Beach,0,train
+729,VA Long Beach,1,train
+730,VA Long Beach,1,train
+731,VA Long Beach,0,test
+732,VA Long Beach,1,train
+733,VA Long Beach,1,train
+734,VA Long Beach,1,train
+735,VA Long Beach,1,train
+736,VA Long Beach,0,test
+737,VA Long Beach,1,train
+738,VA Long Beach,1,test
+739,VA Long Beach,0,train
+740,VA Long Beach,0,train
+741,VA Long Beach,1,train
+742,VA Long Beach,1,train
+743,VA Long Beach,1,train
+744,VA Long Beach,0,train
+745,VA Long Beach,1,train
+746,VA Long Beach,1,train
+747,VA Long Beach,1,train
+748,VA Long Beach,1,train
+749,VA Long Beach,1,train
+750,VA Long Beach,1,train
+751,VA Long Beach,1,train
+752,VA Long Beach,1,train
+753,VA Long Beach,1,train
+754,VA Long Beach,1,train
+755,VA Long Beach,1,train
+756,VA Long Beach,1,train
+757,VA Long Beach,1,train
+758,VA Long Beach,0,test
+759,VA Long Beach,1,train
+760,VA Long Beach,0,train
+761,VA Long Beach,1,train
+762,VA Long Beach,1,train
+763,VA Long Beach,1,test
+764,VA Long Beach,0,train
+765,VA Long Beach,1,train
+766,VA Long Beach,1,test
+767,VA Long Beach,1,train
+768,VA Long Beach,0,train
+769,VA Long Beach,1,train
+770,VA Long Beach,0,train
+771,VA Long Beach,1,train
+772,VA Long Beach,0,train
+773,VA Long Beach,1,test
+774,VA Long Beach,0,train
+775,VA Long Beach,1,test
+776,VA Long Beach,1,train
+777,VA Long Beach,1,train
+778,VA Long Beach,1,train
+779,VA Long Beach,0,train
+780,VA Long Beach,1,train
+781,VA Long Beach,0,test
+782,VA Long Beach,1,train
+783,VA Long Beach,1,train
+784,VA Long Beach,1,train
+785,VA Long Beach,1,test
+786,VA Long Beach,1,train
+787,VA Long Beach,1,train
+788,VA Long Beach,1,test
+789,VA Long Beach,1,test
+790,VA Long Beach,1,train
+791,VA Long Beach,0,train
+792,VA Long Beach,1,train
+793,VA Long Beach,0,train
+794,VA Long Beach,1,test
+795,VA Long Beach,1,train
+796,VA Long Beach,1,train
+797,VA Long Beach,1,test
+798,VA Long Beach,1,train
+799,VA Long Beach,1,train
+800,VA Long Beach,1,train
+801,VA Long Beach,0,train
+802,VA Long Beach,1,train
+803,VA Long Beach,1,train
+804,VA Long Beach,1,train
+805,VA Long Beach,1,test
+806,VA Long Beach,1,train
+807,VA Long Beach,1,test
+808,VA Long Beach,0,train
+809,VA Long Beach,1,train
+810,VA Long Beach,1,train
+811,VA Long Beach,1,train
+812,VA Long Beach,0,train
+813,VA Long Beach,1,train
+814,VA Long Beach,1,train
+815,VA Long Beach,0,train
+816,VA Long Beach,1,test
+817,VA Long Beach,0,test
+818,VA Long Beach,1,train
+819,VA Long Beach,1,train
+820,VA Long Beach,0,train
+821,VA Long Beach,1,test
+822,VA Long Beach,1,train
+823,VA Long Beach,1,train
+824,VA Long Beach,1,train
+825,VA Long Beach,0,train
+826,VA Long Beach,1,train
+827,VA Long Beach,1,train
+828,VA Long Beach,1,train
+829,VA Long Beach,0,train
+830,VA Long Beach,0,train
+831,VA Long Beach,1,test
+832,VA Long Beach,0,test
+833,VA Long Beach,1,train
+834,VA Long Beach,1,train
+835,VA Long Beach,1,test
+836,VA Long Beach,1,train
+837,VA Long Beach,1,train
+838,VA Long Beach,1,train
+839,VA Long Beach,1,train
+840,VA Long Beach,1,train
+841,VA Long Beach,1,train
+842,VA Long Beach,1,test
+843,VA Long Beach,1,train
+844,VA Long Beach,0,train
+845,VA Long Beach,1,train
+846,VA Long Beach,1,test
+847,VA Long Beach,1,train
+848,VA Long Beach,1,train
+849,VA Long Beach,0,train
+850,VA Long Beach,0,test
+851,VA Long Beach,1,test
+852,VA Long Beach,1,train
+853,VA Long Beach,1,train
+854,VA Long Beach,0,train
+855,VA Long Beach,1,train
+856,VA Long Beach,0,train
+857,VA Long Beach,1,train
+858,VA Long Beach,1,test
+859,VA Long Beach,0,train
+860,VA Long Beach,1,train
+861,VA Long Beach,0,train
+862,VA Long Beach,1,train
+863,VA Long Beach,1,train
+864,VA Long Beach,1,train
+865,VA Long Beach,0,train
+866,VA Long Beach,0,train
+867,VA Long Beach,0,train
+868,VA Long Beach,1,train
+869,VA Long Beach,1,train
+870,VA Long Beach,1,train
+871,VA Long Beach,0,train
+872,VA Long Beach,1,train
+873,VA Long Beach,1,test
+874,VA Long Beach,1,test
+875,VA Long Beach,1,train
+876,VA Long Beach,1,train
+877,VA Long Beach,1,train
+878,VA Long Beach,1,train
+879,VA Long Beach,1,test
+880,VA Long Beach,1,train
+881,VA Long Beach,1,train
+882,VA Long Beach,1,train
+883,VA Long Beach,1,train
+884,VA Long Beach,1,test
+885,VA Long Beach,1,train
+886,VA Long Beach,1,test
+887,VA Long Beach,1,train
+888,VA Long Beach,0,train
+889,VA Long Beach,1,train
+890,VA Long Beach,1,train
+891,VA Long Beach,1,train
+892,VA Long Beach,0,train
+893,VA Long Beach,1,train
+894,VA Long Beach,1,train
+895,VA Long Beach,0,train
+896,VA Long Beach,0,train
+897,VA Long Beach,1,train
+898,VA Long Beach,1,test
+899,VA Long Beach,1,train
+900,VA Long Beach,1,train
+901,VA Long Beach,1,train
+902,VA Long Beach,0,train
+903,VA Long Beach,1,test
+904,VA Long Beach,1,test
+905,VA Long Beach,0,test
+906,VA Long Beach,1,train
+907,VA Long Beach,1,train
+909,VA Long Beach,1,train
+910,VA Long Beach,0,train
+911,VA Long Beach,0,test
+912,VA Long Beach,1,train
+913,VA Long Beach,1,train
+914,VA Long Beach,1,train
+915,VA Long Beach,1,train
+916,VA Long Beach,1,train
+917,VA Long Beach,0,train
+918,VA Long Beach,1,train
+919,VA Long Beach,0,train
+920,VA Long Beach,1,train
