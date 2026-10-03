@@ -68,3 +68,13 @@ OMP_NUM_THREADS=2 OPENBLAS_NUM_THREADS=2 python experiment.py
 - [Nested results, uncertainty checks, and threshold tradeoffs](results/experiments/experiment_report.md)
 
 The original test has already been inspected; it is not a fresh confirmation set for these experiments.
+
+## Verify the reported results
+
+```sh
+python -m unittest discover -s tests -v
+```
+
+Checks cover source-file integrity, deduplicated row coverage, train/test separation, target alignment,
+confusion counts and probability metrics reconstructed from saved predictions, and missing-value/unseen-category
+pipeline edge cases. The same checks run on pushes and pull requests through GitHub Actions.
