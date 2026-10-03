@@ -1,0 +1,312 @@
+[
+  {
+    "model": "Baseline logistic",
+    "fold": 1,
+    "params": {},
+    "threshold": 0.3442998365792541
+  },
+  {
+    "model": "Baseline logistic",
+    "fold": 2,
+    "params": {},
+    "threshold": 0.36680295315798767
+  },
+  {
+    "model": "Baseline logistic",
+    "fold": 3,
+    "params": {},
+    "threshold": 0.42200743789052575
+  },
+  {
+    "model": "Baseline logistic",
+    "fold": 4,
+    "params": {},
+    "threshold": 0.3833194070274176
+  },
+  {
+    "model": "Baseline logistic",
+    "fold": 5,
+    "params": {},
+    "threshold": 0.38446045004331686
+  },
+  {
+    "model": "Tuned logistic",
+    "fold": 1,
+    "params": {
+      "model__C": 0.3
+    },
+    "threshold": 0.3723730859168506
+  },
+  {
+    "model": "Tuned logistic",
+    "fold": 2,
+    "params": {
+      "model__C": 0.3
+    },
+    "threshold": 0.3995199282788396
+  },
+  {
+    "model": "Tuned logistic",
+    "fold": 3,
+    "params": {
+      "model__C": 0.3
+    },
+    "threshold": 0.4435374793927946
+  },
+  {
+    "model": "Tuned logistic",
+    "fold": 4,
+    "params": {
+      "model__C": 0.3
+    },
+    "threshold": 0.4096558933019543
+  },
+  {
+    "model": "Tuned logistic",
+    "fold": 5,
+    "params": {
+      "model__C": 0.03
+    },
+    "threshold": 0.4694664500373918
+  },
+  {
+    "model": "Tuned forest",
+    "fold": 1,
+    "params": {
+      "model__max_depth": 5,
+      "model__min_samples_leaf": 10
+    },
+    "threshold": 0.4299511853314736
+  },
+  {
+    "model": "Tuned forest",
+    "fold": 2,
+    "params": {
+      "model__max_depth": 5,
+      "model__min_samples_leaf": 10
+    },
+    "threshold": 0.4487997104453866
+  },
+  {
+    "model": "Tuned forest",
+    "fold": 3,
+    "params": {
+      "model__max_depth": 5,
+      "model__min_samples_leaf": 1
+    },
+    "threshold": 0.40340441923598874
+  },
+  {
+    "model": "Tuned forest",
+    "fold": 4,
+    "params": {
+      "model__max_depth": 5,
+      "model__min_samples_leaf": 10
+    },
+    "threshold": 0.44097482254717524
+  },
+  {
+    "model": "Tuned forest",
+    "fold": 5,
+    "params": {
+      "model__max_depth": 5,
+      "model__min_samples_leaf": 1
+    },
+    "threshold": 0.43218980609897706
+  },
+  {
+    "model": "Tuned boosting",
+    "fold": 1,
+    "params": {
+      "model__l2_regularization": 10.0,
+      "model__max_leaf_nodes": 3
+    },
+    "threshold": 0.3713816070776903
+  },
+  {
+    "model": "Tuned boosting",
+    "fold": 2,
+    "params": {
+      "model__l2_regularization": 1.0,
+      "model__max_leaf_nodes": 3
+    },
+    "threshold": 0.40619575138236
+  },
+  {
+    "model": "Tuned boosting",
+    "fold": 3,
+    "params": {
+      "model__l2_regularization": 10.0,
+      "model__max_leaf_nodes": 3
+    },
+    "threshold": 0.3844301618203846
+  },
+  {
+    "model": "Tuned boosting",
+    "fold": 4,
+    "params": {
+      "model__l2_regularization": 1.0,
+      "model__max_leaf_nodes": 3
+    },
+    "threshold": 0.3945705983658938
+  },
+  {
+    "model": "Tuned boosting",
+    "fold": 5,
+    "params": {
+      "model__l2_regularization": 1.0,
+      "model__max_leaf_nodes": 3
+    },
+    "threshold": 0.4138634666510696
+  },
+  {
+    "model": "Logistic without cholesterol",
+    "fold": 1,
+    "params": {
+      "model__C": 0.3
+    },
+    "threshold": 0.37163244727367983
+  },
+  {
+    "model": "Logistic without cholesterol",
+    "fold": 2,
+    "params": {
+      "model__C": 0.3
+    },
+    "threshold": 0.3816336339822071
+  },
+  {
+    "model": "Logistic without cholesterol",
+    "fold": 3,
+    "params": {
+      "model__C": 0.3
+    },
+    "threshold": 0.400677392262882
+  },
+  {
+    "model": "Logistic without cholesterol",
+    "fold": 4,
+    "params": {
+      "model__C": 0.3
+    },
+    "threshold": 0.3922380935926186
+  },
+  {
+    "model": "Logistic without cholesterol",
+    "fold": 5,
+    "params": {
+      "model__C": 0.3
+    },
+    "threshold": 0.3747409817256091
+  },
+  {
+    "model": "Logistic without missing flags",
+    "fold": 1,
+    "params": {
+      "model__C": 0.3
+    },
+    "threshold": 0.3785811922844294
+  },
+  {
+    "model": "Logistic without missing flags",
+    "fold": 2,
+    "params": {
+      "model__C": 0.3
+    },
+    "threshold": 0.39011970019088066
+  },
+  {
+    "model": "Logistic without missing flags",
+    "fold": 3,
+    "params": {
+      "model__C": 0.3
+    },
+    "threshold": 0.40325620446161675
+  },
+  {
+    "model": "Logistic without missing flags",
+    "fold": 4,
+    "params": {
+      "model__C": 30.0
+    },
+    "threshold": 0.35282311705084207
+  },
+  {
+    "model": "Logistic without missing flags",
+    "fold": 5,
+    "params": {
+      "model__C": 0.3
+    },
+    "threshold": 0.38704342085388305
+  },
+  {
+    "model": "Sigmoid-calibrated logistic",
+    "fold": 1,
+    "params": {},
+    "threshold": 0.4302729110412253
+  },
+  {
+    "model": "Sigmoid-calibrated logistic",
+    "fold": 2,
+    "params": {},
+    "threshold": 0.41097009330057077
+  },
+  {
+    "model": "Sigmoid-calibrated logistic",
+    "fold": 3,
+    "params": {},
+    "threshold": 0.4811497143462632
+  },
+  {
+    "model": "Sigmoid-calibrated logistic",
+    "fold": 4,
+    "params": {},
+    "threshold": 0.4375973547996122
+  },
+  {
+    "model": "Sigmoid-calibrated logistic",
+    "fold": 5,
+    "params": {},
+    "threshold": 0.4271418061090761
+  },
+  {
+    "model": "After-exercise logistic",
+    "fold": 1,
+    "params": {
+      "model__C": 0.03
+    },
+    "threshold": 0.425193611193211
+  },
+  {
+    "model": "After-exercise logistic",
+    "fold": 2,
+    "params": {
+      "model__C": 0.3
+    },
+    "threshold": 0.3747376176553381
+  },
+  {
+    "model": "After-exercise logistic",
+    "fold": 3,
+    "params": {
+      "model__C": 0.3
+    },
+    "threshold": 0.3914322142990635
+  },
+  {
+    "model": "After-exercise logistic",
+    "fold": 4,
+    "params": {
+      "model__C": 0.03
+    },
+    "threshold": 0.44824775361187735
+  },
+  {
+    "model": "After-exercise logistic",
+    "fold": 5,
+    "params": {
+      "model__C": 0.3
+    },
+    "threshold": 0.3842921438764183
+  }
+]

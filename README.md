@@ -53,3 +53,18 @@ an optimal decision rule.
 ```sh
 python visualize_errors.py
 ```
+
+## Follow-up experiments
+
+Eight variants were evaluated using five outer and three inner folds on the original training
+partition. Tuning, calibration, and missingness variations did not improve baseline ROC-AUC.
+Adding exercise-test results increased AUC to 0.893 but answered a different prediction-time question.
+
+```sh
+OMP_NUM_THREADS=2 OPENBLAS_NUM_THREADS=2 python experiment.py
+```
+
+- [Experiment journal: questions, decisions, findings](docs/experiment_journal.md)
+- [Nested results, uncertainty checks, and threshold tradeoffs](results/experiments/experiment_report.md)
+
+The original test has already been inspected; it is not a fresh confirmation set for these experiments.
