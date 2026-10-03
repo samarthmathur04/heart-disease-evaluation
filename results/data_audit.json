@@ -1,0 +1,195 @@
+{
+  "source_file": "heart_disease_uci.csv",
+  "sha256": "574f2fa2b43012fa25fca4fcdb36bd7c6bccdd0af4242f6c0e4c8633c5a072ae",
+  "records": 920,
+  "columns": [
+    "id",
+    "age",
+    "sex",
+    "dataset",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalch",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal",
+    "num"
+  ],
+  "blank_counts": {
+    "id": 0,
+    "age": 0,
+    "sex": 0,
+    "dataset": 0,
+    "cp": 0,
+    "trestbps": 59,
+    "chol": 30,
+    "fbs": 90,
+    "restecg": 2,
+    "thalch": 55,
+    "exang": 55,
+    "oldpeak": 62,
+    "slope": 309,
+    "ca": 611,
+    "thal": 486,
+    "num": 0
+  },
+  "exact_duplicate_copies_including_id": 0,
+  "duplicate_copies_excluding_id": 2,
+  "all_duplicate_ids_excluding_id": [
+    405,
+    406,
+    860,
+    908
+  ],
+  "records_with_any_blank": 621,
+  "complete_records": 299,
+  "target_counts": {
+    "0": 411,
+    "1": 265,
+    "2": 109,
+    "3": 107,
+    "4": 28
+  },
+  "sex_counts": {
+    "Male": 726,
+    "Female": 194
+  },
+  "zero_cholesterol": 172,
+  "zero_blood_pressure_ids": [
+    754
+  ],
+  "negative_oldpeak_records": 12,
+  "numeric_ranges": {
+    "age": {
+      "min": 28.0,
+      "max": 77.0
+    },
+    "trestbps": {
+      "min": 0.0,
+      "max": 200.0
+    },
+    "chol": {
+      "min": 0.0,
+      "max": 603.0
+    },
+    "thalch": {
+      "min": 60.0,
+      "max": 202.0
+    },
+    "oldpeak": {
+      "min": -2.6,
+      "max": 6.2
+    },
+    "ca": {
+      "min": 0.0,
+      "max": 3.0
+    }
+  },
+  "cohorts": [
+    {
+      "hospital": "Cleveland",
+      "records": 304,
+      "disease_fraction": 0.45723684210526316,
+      "complete_records": 297,
+      "cholesterol_zero_records": 0,
+      "missing_counts": {
+        "id": 0,
+        "age": 0,
+        "sex": 0,
+        "dataset": 0,
+        "cp": 0,
+        "trestbps": 0,
+        "chol": 0,
+        "fbs": 0,
+        "restecg": 0,
+        "thalch": 0,
+        "exang": 0,
+        "oldpeak": 0,
+        "slope": 1,
+        "ca": 5,
+        "thal": 3,
+        "num": 0
+      }
+    },
+    {
+      "hospital": "Hungary",
+      "records": 293,
+      "disease_fraction": 0.36177474402730375,
+      "complete_records": 1,
+      "cholesterol_zero_records": 0,
+      "missing_counts": {
+        "id": 0,
+        "age": 0,
+        "sex": 0,
+        "dataset": 0,
+        "cp": 0,
+        "trestbps": 1,
+        "chol": 23,
+        "fbs": 8,
+        "restecg": 1,
+        "thalch": 1,
+        "exang": 1,
+        "oldpeak": 0,
+        "slope": 189,
+        "ca": 290,
+        "thal": 265,
+        "num": 0
+      }
+    },
+    {
+      "hospital": "Switzerland",
+      "records": 123,
+      "disease_fraction": 0.9349593495934959,
+      "complete_records": 0,
+      "cholesterol_zero_records": 123,
+      "missing_counts": {
+        "id": 0,
+        "age": 0,
+        "sex": 0,
+        "dataset": 0,
+        "cp": 0,
+        "trestbps": 2,
+        "chol": 0,
+        "fbs": 75,
+        "restecg": 1,
+        "thalch": 1,
+        "exang": 1,
+        "oldpeak": 6,
+        "slope": 17,
+        "ca": 118,
+        "thal": 52,
+        "num": 0
+      }
+    },
+    {
+      "hospital": "VA Long Beach",
+      "records": 200,
+      "disease_fraction": 0.745,
+      "complete_records": 1,
+      "cholesterol_zero_records": 49,
+      "missing_counts": {
+        "id": 0,
+        "age": 0,
+        "sex": 0,
+        "dataset": 0,
+        "cp": 0,
+        "trestbps": 56,
+        "chol": 7,
+        "fbs": 7,
+        "restecg": 0,
+        "thalch": 53,
+        "exang": 53,
+        "oldpeak": 56,
+        "slope": 102,
+        "ca": 198,
+        "thal": 166,
+        "num": 0
+      }
+    }
+  ]
+}
